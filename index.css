@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+/* header */
+header{
+    display: flex;
+}
+header div{
+    flex: 1 1 0%;
+}
+header .header_logo{
+    flex: 3 1 0%;
+}
+/* body section 1 */
+.boxy{
+    border: 4px solid lightskyblue;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+}
+.boxyHolder{
+    display: flex;
+    gap: 7px;
+}
+/* body section 2 */
+
+/* body section 3 */
+
+/* body section 4 */
+
+/* footer */
